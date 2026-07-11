@@ -1,0 +1,249 @@
+.menu-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.menu-button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #e1034d;
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 10px rgba(225, 3, 77, 0.3);
+
+  .remixicon {
+    font-size: 28px;
+    line-height: 1;
+  }
+
+  &:hover {
+    transform: scale(1.05);
+    background: #c70245;
+    box-shadow: 0 4px 20px rgba(225, 3, 77, 0.4);
+  }
+
+  &:active {
+    transform: scale(0.95);
+  }
+
+  &.open {
+    border-radius: 0.75rem;
+    width: 200px;
+    height: 50px;
+    background: #11151d;
+    border: 1px solid #1e2430;
+    justify-content: flex-start;
+    padding-left: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    
+    .remixicon {
+      margin-right: 10px;
+    }
+
+    &:hover {
+      background: #161b25;
+      border-color: #e1034d;
+    }
+  }
+
+  .menu-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease;
+  }
+}
+
+.menu-dropdown {
+  position: absolute;
+  top: 60px;
+  right: 0;
+  background: #11151d;
+  border: 1px solid #1e2430;
+  border-radius: 0.75rem;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+  min-width: 220px;
+  overflow: hidden;
+  animation: slideDown 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.menu-item {
+  padding: 14px 20px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  color: #d3d7de;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border-bottom: 1px solid #1e2430;
+  background: transparent;
+  border-left: 3px solid transparent;
+  width: 100%;
+  text-align: left;
+  font-family: inherit;
+
+  .remixicon {
+    font-size: 20px;
+    width: 24px;
+    text-align: center;
+    flex-shrink: 0;
+    color: #9aa2af;
+    transition: color 0.2s ease;
+  }
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &:hover {
+    background: #161b25;
+    border-left-color: #e1034d;
+    color: whitesmoke;
+
+    .remixicon {
+      color: whitesmoke;
+    }
+  }
+
+  &.logout {
+    color: #e1034d;
+    
+    .remixicon {
+      color: #e1034d;
+    }
+    
+    &:hover {
+      background: rgba(225, 3, 77, 0.1);
+      border-left-color: #e1034d;
+      
+      .remixicon {
+        color: #ff2d78;
+      }
+    }
+  }
+
+  .menu-item-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .menu-item-text {
+    flex: 1;
+  }
+
+  .menu-item-shortcut {
+    font-size: 0.7rem;
+    color: #5c6470;
+    background: #0e1218;
+    padding: 2px 8px;
+    border-radius: 4px;
+    border: 1px solid #1e2430;
+  }
+}
+
+.menu-divider {
+  height: 1px;
+  background: linear-gradient(to right, transparent, #1e2430, transparent);
+  margin: 4px 12px;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@media (max-width: 768px) {
+  .menu-container {
+    top: 15px;
+    right: 15px;
+  }
+
+  .menu-button {
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+
+    .remixicon {
+      font-size: 24px;
+    }
+
+    &.open {
+      width: 180px;
+      height: 45px;
+      padding-left: 15px;
+    }
+  }
+
+  .menu-dropdown {
+    min-width: 200px;
+    top: 55px;
+  }
+
+  .menu-item {
+    padding: 12px 16px;
+    font-size: 0.85rem;
+
+    .remixicon {
+      font-size: 18px;
+      width: 20px;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .menu-container {
+    top: 10px;
+    right: 10px;
+  }
+
+  .menu-button {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+
+    .remixicon {
+      font-size: 20px;
+    }
+
+    &.open {
+      width: 160px;
+      height: 40px;
+      padding-left: 12px;
+    }
+  }
+
+  .menu-dropdown {
+    min-width: 180px;
+    top: 50px;
+  }
+
+  .menu-item {
+    padding: 10px 14px;
+    font-size: 0.8rem;
+
+    .remixicon {
+      font-size: 16px;
+      width: 18px;
+    }
+  }
+}
