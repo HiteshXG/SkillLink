@@ -6,7 +6,7 @@
 
 A full-stack web application that helps users prepare for interviews using AI-powered resume analysis, job matching, interview questions, and personalized preparation plans.
 
-<br>https://github.com/HiteshXG/SkillLink/edit/main/README.md
+<br>https://github.com/HiteshXG/SkillLink/
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://skill-link-brown.vercel.app/)
 [![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](#license)
@@ -79,12 +79,12 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 ### Register
 
-<img src="./README_assets/Register.png" width="50%">
+   <img src="./README_assets/Register.png" width="50%">
 
-</div>
+   </div>
+
 
 ---
-
 ### Application
 
 <div align="center">
@@ -100,8 +100,9 @@ A full-stack web application that helps users prepare for interviews using AI-po
 <img src="./README_assets/Interview.png" width="50%">
 
 </div>
----
 
+
+---
 ### Navigation
 
 
@@ -115,8 +116,8 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
----
 
+---
 # Tech Stack
 
 ### Frontend
@@ -131,18 +132,13 @@ A full-stack web application that helps users prepare for interviews using AI-po
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### AI
 ![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
+
 ---
 
 # System Architecture
@@ -169,6 +165,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
+
 ---
 
 # Folder Structure
@@ -208,6 +205,7 @@ SkillLink
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
+
 ---
 
 # Installation
@@ -244,6 +242,7 @@ npm run dev
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
+
 ---
 
 # Environment Variables
@@ -276,6 +275,7 @@ VITE_API_BASE_URL=
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
+
 ---
 
 # Running the Project
@@ -312,6 +312,7 @@ http://localhost:5173
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
+
 ---
 
 # API Endpoints
@@ -385,6 +386,7 @@ Generate AI Resume PDF.
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
+
 ---
 
 # Future Improvements
@@ -399,6 +401,7 @@ Generate AI Resume PDF.
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
+
 ---
 
 # Author
@@ -413,6 +416,7 @@ Generate AI Resume PDF.
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
+
 ---
 
 # License
@@ -423,3 +427,5 @@ If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
+
+---
