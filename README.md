@@ -64,9 +64,9 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 <p align="center">
    <h1 align="center">Login</h1>
-   <img src="./README_assets/login.png" width="48%">
+   <img align="center" src="./README_assets/login.png" width="48%">
    <h1 align="center">Register</h1>
-   <img src="./README_assets/Register.png" width="48%">
+   <img align="center" src="./README_assets/Register.png" width="48%">
 </p>
 
 ---
@@ -75,9 +75,9 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 <p align="center">
    <h1 align="center">Home</h1>
-   <img src="./README_assets/Home.png" width="48%">
+   <img align="center" src="./README_assets/Home.png" width="48%">
    <h1 align="center">Interview Reports</h1>
-   <img src="./README_assets/Interview.png" width="48%">
+   <img align="center" src="./README_assets/Interview.png" width="48%">
 </p>
 
 ---
@@ -86,7 +86,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 <p align="center">
    <h1 align="center">Menu</h1>
-   <img src="./README_assets/Menu-bar.png" width="70%">
+   <img align="center" src="./README_assets/Menu-bar.png" width="48%">
 </p>
 
 
@@ -118,7 +118,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 # System Architecture
 
 <p align="center">
-<img src="./README_assets/SkillLink.drawio.png" width="100%">
+<img src="./README_assets/SkillLink.drawio.png" width="50%">
 </p>
 
 ### Workflow
