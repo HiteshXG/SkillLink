@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 SkillLink
+# SkillLink
 
 ### AI-Powered Interview Preparation Platform
 
