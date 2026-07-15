@@ -69,33 +69,49 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 ### Authentication
 
-<p align="center">
-   <h1 align="center">Login</h1>
-   <img align="center" src="./README_assets/login.png" width="48%">
-   <h1 align="center">Register</h1>
-   <img align="center" src="./README_assets/Register.png" width="48%">
-</p>
+<div align="center">
 
+### Login
+
+<img src="./README_assets/login.png" width="50%">
+
+<br><br>
+
+### Register
+
+<img src="./README_assets/Register.png" width="50%">
+
+</div>
 
 ---
 
 ### Application
 
-<p align="center">
-   <h1 align="center">Home</h1>
-   <img align="center" src="./README_assets/Home.png" width="48%">
-   <h1 align="center">Interview Reports</h1>
-   <img align="center" src="./README_assets/Interview.png" width="48%">
-</p>
+<div align="center">
 
+### Home
+
+<img src="./README_assets/Home.png" width="50%">
+
+<br><br>
+
+### Inteview
+
+<img src="./README_assets/Interview.png" width="50%">
+
+</div>
 ---
 
 ### Navigation
 
-<p align="center">
-   <h1 align="center">Menu</h1>
-   <img align="center" src="./README_assets/Menu-bar.png" width="48%">
-</p>
+
+<div align="center">
+
+### Menu
+
+<img src="./README_assets/Menu-bar.png" width="50%">
+
+</div>
 
 
 <p align="right">(<a href="#readme-top">⬆ Back to Top</a>)</p>
