@@ -95,7 +95,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 ## Menu Bar
 
 <p align="center">
-<img src="./README_assets/Menu.png" width="90%">
+<img src="./README_assets/Menu-bar.png" width="90%">
 </p>
 
 ---
