@@ -17,8 +17,10 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 ---
 
+# 📑 Table of Contents
+
 <details>
-<summary><b>📑 Table of Contents</b></summary>
+<summary>Click to Expand</summary>
 
 - [Live Demo](#live-demo)
 - [Features](#features)
@@ -35,6 +37,8 @@ A full-stack web application that helps users prepare for interviews using AI-po
 - [License](#license)
 
 </details>
+
+---
 
 # Live Demo
 
