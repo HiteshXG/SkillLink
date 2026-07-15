@@ -6,7 +6,7 @@
 
 A full-stack web application that helps users prepare for interviews using AI-powered resume analysis, job matching, interview questions, and personalized preparation plans.
 
-<br>
+<br>https://github.com/HiteshXG/SkillLink/edit/main/README.md
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://skill-link-brown.vercel.app/)
 [![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](#license)
@@ -63,7 +63,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 ## Login Page
 
 <p align="center">
-<img src="./assets/home.png" width="90%">
+<img src="./README_assets/login.png" width="90%">
 </p>
 
 ---
@@ -71,7 +71,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 ## Register Page
 
 <p align="center">
-<img src="./assets/home.png" width="90%">
+<img src="./README_assets/Register.png" width="90%">
 </p>
 
 ---
@@ -79,7 +79,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 ## Home Page
 
 <p align="center">
-<img src="./assets/home.png" width="90%">
+<img src="./README_assets/Home.png" width="90%">
 </p>
 
 ---
@@ -87,7 +87,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 ## Interview Report
 
 <p align="center">
-<img src="./assets/report.png" width="90%">
+<img src="./README_assets/Interview.png" width="90%">
 </p>
 
 ---
@@ -95,7 +95,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 ## Menu Bar
 
 <p align="center">
-<img src="./assets/home.png" width="90%">
+<img src="./README_assets/Menu.png" width="90%">
 </p>
 
 ---
@@ -128,7 +128,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 # System Architecture
 
 <p align="center">
-<img src="./assets/architecture.png" width="100%">
+<img src="./README_assets/SkillLink.drawio.png" width="100%">
 </p>
 
 ### Workflow
