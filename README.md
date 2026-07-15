@@ -8,6 +8,9 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 <br></br>https://github.com/HiteshXG/SkillLink/
 
+[![Stars](https://img.shields.io/github/stars/HiteshXG/SkillLink?style=for-the-badge&logo=github&color=0f9d58)](https://github.com/HiteshXG/SkillLink/stargazers)
+[![Forks](https://img.shields.io/github/forks/HiteshXG/SkillLink?style=for-the-badge&logo=git&color=4285f4)](https://github.com/HiteshXG/SkillLink/network/members)
+[![Issues](https://img.shields.io/github/issues/HiteshXG/SkillLink?style=for-the-badge&logo=github&color=ff5722)](https://github.com/HiteshXG/SkillLink/issues)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://skill-link-brown.vercel.app/)
 [![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](#license)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
