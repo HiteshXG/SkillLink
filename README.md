@@ -17,23 +17,24 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 ---
 
-# Table of Contents
+<details>
+<summary><b>📑 Table of Contents</b></summary>
 
-- Demo
-- Features
-- Screenshots
-- Tech Stack
-- System Architecture
-- Folder Structure
-- Installation
-- Environment Variables
-- Running the Project
-- API Endpoints
-- Future Improvements
-- Author
-- License
+- [Live Demo](#live-demo)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [System Architecture](#system-architecture)
+- [Folder Structure](#folder-structure)
+- [Installation](#installation)
+- [Environment Variables](#environment-variables)
+- [Running the Project](#running-the-project)
+- [API Endpoints](#api-endpoints)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
+- [License](#license)
 
----
+</details>
 
 # Live Demo
 
