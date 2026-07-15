@@ -176,30 +176,43 @@ A full-stack web application that helps users prepare for interviews using AI-po
 <summary>Click to Expand</summary>
 
 ```text
-SkillLink
-│
-├── Backend
-│   ├── src
-│   │   ├── config
-│   │   ├── controllers
-│   │   ├── middlewares
-│   │   ├── models
-│   │   ├── routes
-│   │   └── services
+HiteshXG/SkillLink/
+├── Backend/
+│   ├── package.json
 │   ├── server.js
-│   └── package.json
-│
-├── Frontend
-│   ├── src
-│   │   ├── components
-│   │   ├── features
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── api.config.js
-│   └── package.json
-│
-├── assets
-└── README.md
+│   ├── src/
+│   │   ├── app.js
+│   │   ├── config/
+│   │   │   └── database.js
+│   │   ├── controllers/
+│   │   │   ├── auth.controller.js
+│   │   │   └── interview.controller.js
+│   │   ├── middlewares/
+│   │   │   ├── auth.middleware.js
+│   │   │   └── file.middleware.js
+│   │   ├── models/
+│   │   │   ├── blacklist.model.js
+│   │   │   ├── interviewReport.model.js
+│   │   │   └── user.model.js
+│   │   ├── routes/
+│   │   │   ├── auth.routes.js
+│   │   │   └── interview.routes.js
+│   │   └── services/
+│   │       └── ai.service.js
+└── Frontend/
+    ├── api.config.js
+    ├── package.json
+    ├── src/
+    │   ├── App.jsx
+    │   ├── app.routes.jsx
+    │   ├── components/
+    │   │   ├── Loader/
+    │   │   └── Menu/
+    │   ├── features/
+    │   │   ├── auth/
+    │   │   └── interview/
+    │   └── main.jsx
+    └── vite.config.js
 ```
 
 </details>
