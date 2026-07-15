@@ -60,45 +60,35 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 # Screenshots
 
-## Login Page
+### Authentication
 
 <p align="center">
-<img src="./README_assets/login.png" width="90%">
+   <h1 align="center">Login</h1>
+   <img src="./README_assets/login.png" width="48%">
+   <h1 align="center">Register</h1>
+   <img src="./README_assets/Register.png" width="48%">
 </p>
 
 ---
 
-## Register Page
+### Application
 
 <p align="center">
-<img src="./README_assets/Register.png" width="90%">
+   <h1 align="center">Home</h1>
+   <img src="./README_assets/Home.png" width="48%">
+   <h1 align="center">Interview Reports</h1>
+   <img src="./README_assets/Interview.png" width="48%">
 </p>
 
 ---
 
-## Home Page
+### Navigation
 
 <p align="center">
-<img src="./README_assets/Home.png" width="90%">
+   <h1 align="center">Menu</h1>
+   <img src="./README_assets/Menu-bar.png" width="70%">
 </p>
 
----
-
-## Interview Report
-
-<p align="center">
-<img src="./README_assets/Interview.png" width="90%">
-</p>
-
----
-
-## Menu Bar
-
-<p align="center">
-<img src="./README_assets/Menu-bar.png" width="90%">
-</p>
-
----
 
 # Tech Stack
 
