@@ -17,7 +17,7 @@ A full-stack web application that helps users prepare for interviews using AI-po
 
 ---
 
-# 📑 Table of Contents
+# Table of Contents
 
 <details>
 <summary>Click to Expand</summary>
