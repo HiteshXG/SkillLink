@@ -6,7 +6,7 @@
 
 A full-stack web application that helps users prepare for interviews using AI-powered resume analysis, job matching, interview questions, and personalized preparation plans.
 
-<br>https://github.com/HiteshXG/SkillLink/
+<br>https://github.com/HiteshXG/SkillLink/</br>
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://skill-link-brown.vercel.app/)
 [![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](#license)
